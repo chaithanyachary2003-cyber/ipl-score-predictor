@@ -122,3 +122,6 @@ The model was evaluated using:
 ## 👨‍💻 Author
 
 Developed using Machine Learning and Streamlit.
+
+## Live Demo
+[Click Here to Try the App](https://ipl-score-predictor-hcdppnnzoc3x9uv5uvsne3.streamlit.app/)
