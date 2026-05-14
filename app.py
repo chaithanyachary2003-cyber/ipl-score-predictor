@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import pickle
+import joblib
 
 # =========================
 # PAGE CONFIG
@@ -42,9 +42,7 @@ h1, h2, h3, h4 {
 # Load Model
 # =========================
 
-model = pickle.load(
-    open('ipl_score_predictor.pkl', 'rb')
-)
+model = joblib.load('ipl_model.pkl')
 
 # =========================
 # App Title
