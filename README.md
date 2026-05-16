@@ -122,6 +122,7 @@ The model was evaluated using:
 ## 👨‍💻 Author
 
 V.A. Venkata Sai Chaithanya
+Aspiring Data Scientist | Machine Learning Enthusiast
 
 Developed using Machine Learning and Streamlit.
 
